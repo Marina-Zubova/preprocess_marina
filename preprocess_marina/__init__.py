@@ -1,5 +1,5 @@
 from preprocess_marina import utils
-__version__ = '0.0.1'
+__version__ = '0.0.4'
 
 def get_wordcounts(x):
     return utils._get_wordcounts(x)

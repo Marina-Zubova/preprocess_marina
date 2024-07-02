@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
     
 setuptools.setup(
         name = 'preprocess_marina',  #unique
-        version = '0.0.1',
+        version = '0.0.4',
         author = 'Marina',
         author_email = 'info@gmail.com',
         description = 'This is the preprocessing package',
