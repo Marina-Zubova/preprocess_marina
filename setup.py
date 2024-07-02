@@ -7,8 +7,8 @@ setuptools.setup(
         name = 'preprocess_marina',  #unique
         version = '0.0.1',
         author = 'Marina',
-        author_email = 'info@gmail.com'
-        description = 'This is the preprocessing package'
+        author_email = 'info@gmail.com',
+        description = 'This is the preprocessing package',
         long_description = long_description,
         long_description_content_type = 'text/markdown',
         packages = setuptools.find_packages(),
